@@ -15,5 +15,3 @@
 .navbar a:hover {
   background-color: hsl(0, 0%, 10%);
 }
-.navbar li {
-  float: left;
